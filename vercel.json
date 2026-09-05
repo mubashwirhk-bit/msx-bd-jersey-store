@@ -1,11 +1,1 @@
-{
-  "buildCommand": "npm run build",
-  "outputDirectory": "build",
-  "framework": "react",
-  "functions": {
-    "api/**/*.js": {
-      "memory": 1024,
-      "maxDuration": 60
-    }
-  }
-}
+{"buildCommand": "npm run build", "outputDirectory": "build", "devCommand": "npm start"}
